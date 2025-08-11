@@ -1,6 +1,9 @@
 # Análisis de campañas de alivio financiero y propuesta para recuperación de cartera vencida en una entidad financiera
 
-***PROYECTO EN CONSTRUCCIÓN***
+# *PROYECTO EN CONSTRUCCIÓN*
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/8a1e13c2-ff85-4c60-9ca3-51979bd4326a" />
+
 
 ## Tabla de contenidos
 
