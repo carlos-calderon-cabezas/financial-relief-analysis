@@ -16,8 +16,7 @@ El presente proyecto nace de una inspiración en un proceso de selección realiz
 ## Contenido del proyecto
 
 - `analisis_alivio_financiero.ipynb`: Jupyter Notebook donde se encuentra la parte principal del proyecto.
-- Carpeta `input` con los siguientes datasets de entrada:
-    - Dataset `df_morosidad.csv` con los datos de entrada de clientes del Banco, incluyendo todo lo relacionado con la morosidad.
+- Dataset de entrada llamado `df_morosidad.csv` con los datos de clientes del Banco con cartera vencida vigente.
 
 
 ## Instrucciones de uso
