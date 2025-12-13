@@ -11,7 +11,7 @@
 
 ## Descripción del proyecto
 
-El presente proyecto nace de una inspiración en un proceso de selección realizado para el cargo de **Analista de Datos** en una reconocida entidad financiera. El presente análisis busca generar una propuesta para la mejora de gestión de recuperación de cartera vencida para una entidad financiera en base a datos de clientes.
+El presente proyecto se inspira en la colaboración realizada con un cliente que trabaja en una reconocida entidad financiera en Ecuador. El presente análisis busca generar una propuesta para la mejora de gestión de recuperación de cartera vencida en base a datos crediticios y demográficos.
 
 ## Contenido del proyecto
 
