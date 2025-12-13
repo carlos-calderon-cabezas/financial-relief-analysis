@@ -1,5 +1,7 @@
 # Análisis de campañas de alivio financiero y propuesta para recuperación de cartera vencida en una entidad financiera
 
+**[HAZ CLICK AQUÍ PARA VER EL PROYECTO](analisis_alivio_financiero.ipynb)**
+
 ## Tabla de contenidos
 
 - [Descripción del proyecto](#descripción-del-proyecto)
